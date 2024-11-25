@@ -7,9 +7,15 @@ This project is to deploy an App to Azure Kubernetes Cluster with Yaml pipeline 
 - Run the Pipeline
 
 ### Outcomes
-
+Namespaces
 <img src="https://github.com/oluwarotimiyinka/Azure-Kubernetes-Deploy-Pipeline/blob/main/Namespaces.png" alt="Namespaces" width="250" height="250">
-![Namespaces](https://github.com/user-attachments/assets/92501929-7ae4-49b3-9713-a2dc587e1507)
-![DevOps Job Outcome](https://github.com/user-attachments/assets/a1a2568a-e466-43c9-adc1-7038aa5cb05c)
-![Workload](https://github.com/user-attachments/assets/481caa1d-20be-4854-81be-36c7aab044ad)
-![Services and Ingresses](https://github.com/user-attachments/assets/35a59cde-4ecc-4526-89fb-1ae15d22d8dd)
+
+DevOps Job
+<img src="https://github.com/oluwarotimiyinka/Azure-Kubernetes-Deploy-Pipeline/blob/main/DevOps_Job.png" alt="DevOps Job Outcome" width="250" height="250">
+
+Workload
+<img src="https://github.com/oluwarotimiyinka/Azure-Kubernetes-Deploy-Pipeline/blob/main/Workloads.png" alt="Workloads" width="250" height="250">
+
+Services and Ingresses
+<img src="https://github.com/oluwarotimiyinka/Azure-Kubernetes-Deploy-Pipeline/blob/main/Services%20and%20Ingresses.png" alt="Workloads" width="250" height="250">
+
