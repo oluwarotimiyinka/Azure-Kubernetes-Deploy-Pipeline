@@ -18,6 +18,6 @@ steps:
     kubernetesCluster: 'titemiaks'
     namespace: 'default'
     command: 'apply'
-    arguments: '-f $(System.DefaultWorkinDirectory)/deployment2.yaml'
+    arguments: '-f $(System.DefaultWorkingDirectory)/deployment2.yaml'
     secretType: 'dockerRegistry'
     containerRegistryType: 'Azure Container Registry'
